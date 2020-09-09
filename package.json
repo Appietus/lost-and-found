@@ -1,0 +1,19 @@
+{
+  "name": "t-kay.com",
+  "version": "1.0.0",
+  "description": "Cryptocurrency",
+  "private": true,
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "TKAY",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6",
+    "gulp-rename": "^1.2",
+    "gulp-sass": "^3.1",
+    "gulp-uglify": "^3.0"
+  }
+}
